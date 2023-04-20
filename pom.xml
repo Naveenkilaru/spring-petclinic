@@ -206,6 +206,7 @@
               </additionalProperties>
             </configuration>
           </execution>
+
         </executions>
       </plugin>
       <plugin>
